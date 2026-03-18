@@ -103,7 +103,8 @@ customer-retention-cohort-analysis/
 │   └── customer_retention_dashboard.pbix
 │
 ├── images/
-│   └── dashboard_preview.png
+│   ├── dashboard_overview.png
+│   └── cohort_heatmap.png
 │
 ├── docs/
 │   └── business_questions.md
@@ -113,11 +114,11 @@ customer-retention-cohort-analysis/
 ```
 
 ## 📸 Dashboard Preview
-### Cohort Retention Analysis
-![Cohort Heatmap](images/cohort_heatmap.png)
-
 ### Dashboard Overview
 ![Dashboard Overview](images/dashboard_overview.png)
+
+### Cohort Retention Analysis
+![Cohort Heatmap](images/cohort_heatmap.png)
 
 ## 🎯 Business Recommendations
 - Improve customer retention strategies (loyalty programs, follow-ups)
