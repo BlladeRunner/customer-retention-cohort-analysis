@@ -58,10 +58,10 @@ Active Customers in Month N / Total Customers in Month 0
 ```
 
 ## 📈 Key Findings
-🔻 Retention drops sharply after the first purchase
-📉 Month 1 retention is typically below 1%
-⚠️ Long-term retention is extremely low across all cohorts
-📊 Repeat Customer Rate is only ~3%
+- 🔻 Retention drops sharply after the first purchase
+- 📉 Month 1 retention is typically below 1%
+- ⚠️ Long-term retention is extremely low across all cohorts
+- 📊 Repeat Customer Rate is only ~3%
 
 👉 Insight:
 This indicates weak customer loyalty and high churn, meaning most customers do not return after their first purchase.
@@ -84,7 +84,6 @@ This indicates weak customer loyalty and high churn, meaning most customers do n
 - Power BI (dashboard & data modeling)
 - DAX (retention logic & measures)
 - Excel (data exploration)
-
 
 ## Project Structure
 ```text
@@ -114,8 +113,11 @@ customer-retention-cohort-analysis/
 ```
 
 ## 📸 Dashboard Preview
+### Cohort Retention Analysis
+![Cohort Heatmap](images/cohort_heatmap.png)
 
-
+### Dashboard Overview
+![Dashboard Overview](images/dashboard_overview.png)
 
 ## 🎯 Business Recommendations
 - Improve customer retention strategies (loyalty programs, follow-ups)
@@ -130,7 +132,7 @@ customer-retention-cohort-analysis/
 - How to translate data into business insights
 - How to build dashboards that tell a story
 
-📌 Status
+## 📌 Status
 ✅ Completed
 
 🔙 [Back to Portfolio](https://github.com/BlladeRunner)
