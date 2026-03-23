@@ -48,7 +48,7 @@ GROUP BY customer_unique_id;
 Customer activity is tracked across future months using:
 - Cohort Month
 - Order Month
-- Month Number (difference in months)
+- Month Number (time difference in months)
 
 ### 4. Retention Calculation
 Retention is calculated as:
